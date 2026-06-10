@@ -8,3 +8,4 @@ bool Sensors::detectMotion() {
 int Sensors::readLightLevel() {
     return rand() % 100;  // 0–100 light intensity
 }
+                                                       
