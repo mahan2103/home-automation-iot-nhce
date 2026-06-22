@@ -14,7 +14,7 @@ The system follows a structured design separating sensing and control layers, en
 - Real-time simulation of smart home behavior
 - Extendable for real IoT deployment
 
----                           
+---                                                                          
 
 ## 🛠️ Technologies Used
 - C++ (Embedded-style programming)
