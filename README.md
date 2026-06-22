@@ -106,7 +106,7 @@ Motion Detected: YES
 - No persistent system state
 
 ---
-
+                                                      
 ## 📷 Future Improvements
 
 - Integration with Arduino / ESP32 hardware
