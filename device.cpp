@@ -16,4 +16,3 @@ void Device::controlFan(bool state) {
     else
         cout << "[ACTION] Fan OFF\n";
 }
-                                                                      
