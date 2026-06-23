@@ -22,11 +22,3 @@ void Controller::process(int lightLevel, bool motionDetected) {
         device.controlFan(false);
     }
 }
-
-
-
-
-
-
-
-
